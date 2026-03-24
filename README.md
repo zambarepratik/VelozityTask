@@ -118,6 +118,3 @@ Given more time, I would improve:
 * Drag smoothness and animations
 * Add full filter system with URL sync
 * Enhance UI polish for production-level quality
-
-## Output LINK 
-http://localhost:5173/
